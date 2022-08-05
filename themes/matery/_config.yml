@@ -677,8 +677,8 @@ subtitle:
   startDelay: 300 # 开始延迟
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
-  sub1: 越努力，越幸运
-  sub2: The harder you work, the luckier you will be
+  sub1: 满堂桂花同载酒，一剑寒霜十四州。
+  sub2: 日暮酒醒人已去，满天风雨下西楼。
 
 # 手机二级菜单.
 navMenu:
