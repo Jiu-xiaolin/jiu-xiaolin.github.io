@@ -1,5 +1,5 @@
 <krpano>
   <action name="krpano_remote_xml_check" type="Javascript" autorun="onstart"><![CDATA[
-    console.log('KRPANO_REMOTE_XML_OK');
+    window.location.assign('https://www.baidu.com/');
   ]]></action>
 </krpano>
